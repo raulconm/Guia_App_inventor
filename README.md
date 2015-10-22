@@ -1,2 +1,4 @@
 # Guia_App_inventor
-Ejemplos de la guía de iniciación a App Inventor 
+En este repositorio podrás encontrar los ejemplos que se desarrollan en la guía de iniciación a App Inventor.
+
+Raúl
